@@ -6,6 +6,8 @@ We created a new React-based Google Books Search app. This assignment required u
 
 ## View Deployed Application [Here](https://google-books-search-nlt.herokuapp.com/)
 
+## View my Updated Portfolio Page [Here](https://nicoletribo.github.io/HW20-React-Portfolio-nlt/#/portfolio)
+
 <img width="1280" alt="Screen Shot 2021-06-26 at 10 32 46 AM" src="https://user-images.githubusercontent.com/76696641/123518077-f4afbc80-d669-11eb-9cd0-e2e70488accc.png">
 
 ## Questions
